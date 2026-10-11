@@ -12,8 +12,3 @@ A 5 screen Student Organizer built with Jetpack Compose and Navigation Compose.
 
 ## Custom composables (Components.kt)
 AppBar, BottomBar, CourseInfo, AssignmentCard, StudentProfile, AssignmentForm
-
-## Notes
-- No database or network, all data is sample data / UI state
-- Navigation routes are in a sealed class (`Screen.kt`)
-- Demo video: `demo.mp4`
